@@ -1,7 +1,7 @@
 <template>
     <div class="h-[100vh] overflow-hidden w-full image-bg">
         <div class="w-full h-full bg-gradient-to-b px-6 from-primary flex flex-col lg:justify-center justify-end lg:pb-0 pb-20 items-center to-transparent gap-20">
-            <h1 class="text-white font-bold text-3xl lg:text-5xl max-w-2xl leading-normal text-center">Reach Your Destinations in Time</h1>
+            <h1 class="text-white font-bold text-3xl lg:text-5xl max-w-2xl leading-normal text-center">Your way Your Trip</h1>
             <SearchBar />
             <div class="w-full flex lg:flex-row flex-col justify-center items-center gap-2 lg:gap-10">
                 <a href="#" class="rounded-xl bg-white py-2 px-3 max-w-[180px] lg:w-full justify-center flex items-center">

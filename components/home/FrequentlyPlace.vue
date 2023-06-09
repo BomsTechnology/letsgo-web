@@ -24,49 +24,49 @@
 <script setup lang="ts">
     const data = [
         {
-            image: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg",
+            image: "https://i.pinimg.com/originals/dd/8d/85/dd8d851950e92e2e3945d710cbd3a12d.jpg",
             name: "National Museum",
             place: "Education, Yde",
         },
         {
-            image: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg",
-            name: "National Museum",
+            image: "https://voyage.maresaonline.com/wp-content/uploads/2020/10/5ebbc0c335300_palais-des-sultans-bamouns-ouest-cameroun-maresa-voyage-2-900x600.jpg",
+            name: "Foumbam Royal Place",
+            place: "Ouest, Bafoussam",
+        },
+        {
+            image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/74/91/b3/exterior.jpg?w=700&h=-1&s=1",
+            name: "Hilton Hotel",
             place: "Education, Yde",
         },
         {
-            image: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg",
-            name: "National Museum",
-            place: "Education, Yde",
+            image: "https://voyage.maresaonline.com/wp-content/uploads/2020/05/5ebaa42d3011f_muse-maritime-douala-bonanjo-cameroun-maresa-voyage.jpg",
+            name: "Maritim Museum",
+            place: "Bonanjo, Dla",
         },
         {
-            image: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg",
-            name: "National Museum",
-            place: "Education, Yde",
+            image: "https://www.stopblablacam.com/media/k2/items/cache/dacc54c7207467952eb33e27e8047219_L.jpg",
+            name: "Playce",
+            place: "Warda, Yde",
         },
         {
-            image: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg",
-            name: "National Museum",
-            place: "Education, Yde",
+            image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Les_Gorges_de_Kola2.jpg",
+            name: "Les gorges de Kola",
+            place: "Nord Cameroun",
         },
         {
-            image: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg",
-            name: "National Museum",
-            place: "Education, Yde",
+            image: "https://afriquexxi.info/IMG/logo/shutterstock_2106094850_3000px.jpg?1654630422",
+            name: "Stade olembe",
+            place: "Olembe, Yde",
         },
         {
-            image: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg",
-            name: "National Museum",
-            place: "Education, Yde",
+            image: "https://upload.wikimedia.org/wikipedia/commons/3/30/BAFUT_PALACE_-_FON%27S_BUILDING.JPG",
+            name: "Fon's Palace",
+            place: "Bamenda, Cameroun",
         },
         {
-            image: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg",
-            name: "National Museum",
-            place: "Education, Yde",
-        },
-        {
-            image: "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
-            name: "National Museum",
-            place: "Education, Yde",
+            image: "https://journals.openedition.org/aaa/docannexe/image/2540/img-18-small580.jpg",
+            name: "Bameka",
+            place: "Ouest Cameroun",
         }
     ]
 </script>
